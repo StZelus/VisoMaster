@@ -82,7 +82,7 @@ tensorrt-cu13-bindings==10.16.1.11
 tensorrt-cu13-libs==10.16.1.11
 termcolor==3.3.0
 tifffile==2026.5.2
-torch==2.11.0+cu130
+torch==2.13.0
 torchaudio==2.11.0+cu130
 torchmetrics==1.9.0
 torchvision==0.26.0+cu130
